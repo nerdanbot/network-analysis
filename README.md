@@ -1,4 +1,5 @@
 #Facebook Friend Suggestion
+
 This code uses NetworkX to analyze a social network graph and suggest a friend for a given user based on a similarity score. The program reads in an edgelist file, which contains the edges of the graph. It prompts the user to enter a node (i.e., a Facebook user), and then computes a similarity score between the user and all non-neighbors. Finally, it suggests a friend with the highest similarity score as a friend recommendation.
 
 Requirements
